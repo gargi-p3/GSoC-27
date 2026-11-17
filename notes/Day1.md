@@ -1,3 +1,4 @@
+Day 1; 
 What is a sorce code?
 >>Source code is a set of instructions written by a programmer in a programming language like python,java,etc,. 
 
@@ -33,3 +34,7 @@ CPU
  ↓
 Output
 ]
+
+Day 2 - Git Basics
+Today I initialized my first Git repository.
+I learned staging, commits, and Git history.
